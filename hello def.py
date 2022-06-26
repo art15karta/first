@@ -5,5 +5,7 @@ def hello(x):
 hello("Kak dela?")
 
 
+mm = 99
+print(mm-99)
 
 
